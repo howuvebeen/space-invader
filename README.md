@@ -111,7 +111,7 @@ These instructions will get you a copy of the project up and running on your loc
 <!-- CODE -->
 # Code
 
-These are some of the codes of I built for the game. To see more, refer to **app.py**, **wave.py**, and **models.py**.
+These are some of the codes I built for the game. To see more, refer to **app.py**, **wave.py**, and **models.py**.
 
 
 ```
