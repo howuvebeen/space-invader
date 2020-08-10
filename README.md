@@ -60,12 +60,10 @@ Lost
 
 ## Game Features
 
-Aliens
 * The aliens are arranged in rows and columns.
 * They march back and forth across the screen, increasing speed as time goes.
 * An alien chosen at random fires laser bolts. 
 * They die when they collide with the laser bolt shot by the ship.
-
 * At the bottom of the screen, there is a defense line.
 * The ship can move horizontally and shoot a laser bolt at the aliens to attack. 
 
