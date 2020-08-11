@@ -5,10 +5,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-    <a href="https://github.com/howuvebeen/space-invader"><img src="images/preview.png" alt="preview"></a>
+    <img src="images/preview.png" alt="preview">
 </p>
 
-<a href="https://github.com/howuvebeen/space-invader"><h2 align="center">Space Invader</h2></a>
+<h2 align="center">Space Invader</h2>
 
 <p align="center">
 <strong>Built a classic shooting game using stateful controllers to program features like defense barriers, multiple waves, sound effects, increasing speed, and score tracking using Python.</strong>
@@ -51,19 +51,22 @@ The Pacxon version is one of the the most authentic Space Invader games.
 
 ## Game Rules
 
-Win
+Win : 
 * The last alien is destoryed
 
-Lost
+Lost :
 * The ship is destroyed and there are no lives remaining.
 * Any alien touches the defensive line.
 
 ## Game Features
 
+Aliens
 * The aliens are arranged in rows and columns.
 * They march back and forth across the screen, increasing speed as time goes.
 * An alien chosen at random fires laser bolts. 
 * They die when they collide with the laser bolt shot by the ship.
+
+Ship
 * At the bottom of the screen, there is a defense line.
 * The ship can move horizontally and shoot a laser bolt at the aliens to attack. 
 
