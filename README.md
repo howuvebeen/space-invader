@@ -5,7 +5,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-    <img src="images/preview.png" alt="preview">
+    <img src="images/preview.jpg" alt="preview">
 </p>
 
 <h2 align="center">Space Invader</h2>
